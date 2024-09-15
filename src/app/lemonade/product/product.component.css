@@ -2,6 +2,8 @@
   width: 90%;
   display: flex;
   text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .product-name {
@@ -26,4 +28,10 @@
   height: 30px;
   width: 30px;
   background: palevioletred;
+  cursor: pointer;
+}
+
+h3 {
+  text-align: center;
+  width: 28%;
 }
